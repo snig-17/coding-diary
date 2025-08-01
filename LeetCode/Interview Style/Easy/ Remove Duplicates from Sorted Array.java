@@ -60,9 +60,8 @@ class Solution {
                 for (int j = i; j < k - 1; j++){
                     nums[j] = nums[j+1];
                 }
-                k = k - 1;
-                i = i - 1;
-                
+                k = k - 1; //k--;
+                i = i - 1; //i--;
                 
             }
         }
