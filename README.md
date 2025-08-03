@@ -110,9 +110,9 @@ Want to Use This Template?
 4. Share your progress with the community!
 
 ## 🚀 My Stats
-1. Last Updated: 02-08-25
-1. Total Problems Solved: 2
-1. Current Streak: 2 days
+1. Last Updated: 03-08-25
+1. Total Problems Solved: 3
+1. Current Streak: 3 days
 
 
 © 2025 snig-17. This template is open source - feel free to copy, modify, and share!
