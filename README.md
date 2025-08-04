@@ -111,7 +111,7 @@ Want to Use This Template?
 
 ## 🚀 My Stats
 1. Last Updated: 04-08-25
-1. Total Problems Solved: 4
+1. Total Problems Solved: 5
 1. Current Streak: 4 days
 
 
