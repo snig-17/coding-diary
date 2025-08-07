@@ -1,6 +1,6 @@
 # 📚 Coding Diary
 
-> *"Code. Learn. Iterate. Grow."* 
+> _"Code. Learn. Iterate. Grow."_
 
 A personal chronicle of problem-solving adventures, algorithmic insights, and continuous improvement in the world of competitive programming.
 
@@ -25,7 +25,7 @@ QUESTION:
 /*
 MY OBSERVATIONS:
 - Real-time thoughts during problem-solving
-- Challenges faced and breakthrough moments  
+- Challenges faced and breakthrough moments
 - Tools and techniques that helped
 - Time complexity considerations
 */
@@ -78,7 +78,6 @@ Quarterly Assessment: Major milestone evaluation
 - [ ] 100-day streak
 - [ ] Contest participation
 
-
 ## 🚀 Getting Started
 
 1. Browse entries by date or problem type
@@ -87,7 +86,6 @@ Quarterly Assessment: Major milestone evaluation
 4. Try alternative approaches to the same problems
 5. Share your insights and suggestions
 6. Use entries as interview preparation
-
 
 Feel free to reach out for:
 
@@ -110,9 +108,9 @@ Want to Use This Template?
 4. Share your progress with the community!
 
 ## 🚀 My Stats
-1. Last Updated: 05-08-25
-1. Total Problems Solved: 6
-1. Current Streak: 5 days
 
+1. Last Updated: 07-08-25
+1. Total Problems Solved: 7
+1. Current Streak: 1 days
 
 © 2025 snig-17. This template is open source - feel free to copy, modify, and share!
