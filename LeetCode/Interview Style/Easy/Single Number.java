@@ -29,6 +29,8 @@ a ^ 0 = a (any number XOR 0 is itself)
 XOR is commutative: a ^ b ^ c = c ^ a ^ b
 */
 
+import java.util.Arrays;
+
 class Solution {
     public int singleNumber(int[] nums) {
         if (nums.length == 1) return nums[0];
